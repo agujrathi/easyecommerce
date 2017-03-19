@@ -1,0 +1,582 @@
+@charset "utf-8";
+.container{width:1200px;padding:0 15px}
+
+.arrow_drupal{text-align:center;}
+.arrow_drupal:hover path:nth-child(odd){background:#fff; fill:#f79030 !important;  position:absolute; z-index:9; top:0px; left:0px;} 
+
+
+/*banner */
+.promotion_banner{background:url(https://www.weblinkindia.net/images/php-banner.jpg) center top no-repeat;width:100%;height:533px;background-attachment:local; background-size:cover}
+.web_banner_img{margin-top:100px; text-align:right !important;}
+.web_banner_img img{display:block; margin:auto; max-width:100%; height:auto; vertical-align:bottom;}
+.banner_sec{text-align:center;}
+.banner_sec h1{font:900 47px/47px 'Roboto', serif;display:block;color:#fff; border-bottom:0px; margin-top:40px;}
+.banner_cnt{font:300 32px/32px 'Roboto', serif; color:#fff; margin-top:10px;}
+
+.banner_sec1{width:22%; float:left; margin:35px 25px 0 0; position:relative;}
+
+
+.banner_circle1{width:90px; height:90px; border-radius:100%; background:#cb5d00;}
+.banner_circle2{width:90px; height:90px; border-radius:100%; background:#7ebf42;}
+.banner_circle3{width:90px; height:90px; border-radius:100%; background:#0cc5cc;}
+.banner_circle4{width:90px; height:90px; border-radius:100%; background:#092f66;}
+
+.circle1_area{width:100%; position:absolute; z-index:9; top:13px; left:8px;padding:3px;}
+.circle1_area:hover{background:#e87e24; border-radius:30px; }
+.circle1_sec1{float:left;}
+.circle1_sec1 svg{ margin:0px 0px 0px 8px;}
+.circle1_sec2{float:right; width:63%; margin-top:5px; text-align:left;}
+.circle1_sec2 p{font:700 18px/20px 'Roboto', serif; color:#fff;}
+.circle1_sec2 p span{font:14px/18px 'Roboto', serif;}
+
+.banner_circle2{width:90px; height:90px; border-radius:100%; background:#7ebf42;}
+
+.banner_btn_area{width:45%; margin-top:30px;}
+.banner_btn{background:#7ebf42; text-align:center; padding:10px; width:50%; margin:auto; border-radius:5px;}
+.banner_btn:hover{background:#ff8515;}
+.banner_btn .title a{font:700 22px/22px 'Roboto', serif; color:#fff; }
+.banner_btn .title_sub{font:300 14px/18px 'Roboto', serif; color:#fff;}
+
+/*banner */
+
+
+/*Magento Development Services*/
+.magento_service_bg{background:url(https://www.weblinkindia.net/images/m-service-bg.jpg);}
+.tab_hider{display:none;}
+.arrow_magento{background:url(https://www.weblinkindia.net/images/d-aro.svg) no-repeat center top; width:185px; height:40px; text-align:center; margin:auto;}
+.arrow_magento:hover path:nth-child(odd){background:#222; fill:#222 !important; position:absolute; z-index:9; top:0px; left:0px;}
+.magento_box{padding:35px 0px;}
+.magento_box h2{font:300 47px/47px 'Roboto', serif;display:block;color:#0078ae}
+.magento_box h2 span{font:700 47px/47px 'Roboto', serif}
+
+
+.magento_tab{margin:30px 0 0 0}
+
+.magento_tab_links a {background:#e2e2e2;font:700 20px/22px 'Roboto',Arial,Helvetica,sans-serif; color:#666666;display:block; float:left; width:14.9%; height:125px; padding:0px 10px; margin:0px 10px; border-radius:15px;transition:all linear .3s; position:relative; text-transform:capitalize;}
+.magento_tab_links a:hover{background:#02a7c3; color:#fff;}
+.magento_tab_links a b{width:14.9%; height:125px; vertical-align:middle; display:table-cell;} 
+.magento_tab_links a span{display:none;}
+.magento_tab_links a.act{background:#02a7c3;color:#fff;}
+.magento_tab_links a.act span{position:absolute; z-index:9; bottom:-18px; left:43.7%;display:block;}
+
+.tab_bb{border-bottom:1px solid #e2e2e2; margin:0px 20px;}
+.magento_tab_box{margin:18px 10px;}
+
+.magento_title h3, .magento_title p.strong{font:700 28px/30px 'Roboto', serif;color:#02a7c3; text-transform:capitalize;}
+.magento_list_cnt{font:16px/26px 'Roboto', serif;color:#555555;margin-top:10px;}
+.magento_blue_box{background:#02a7c3; border-radius:15px; padding:15px; min-height:225px;}
+.box_list p{ background:url(https://www.weblinkindia.net/images/tick-circle.svg) no-repeat 0 9px;font:500 15px/30px 'Roboto', serif;color:#fff; padding-left:25px;}
+
+.magento_contact{margin:10px 0 35px 0; background:#ef662f; border-radius:5px; padding:25px;}
+.magento_contact h3{font:300 35px/44px 'Roboto', serif;color:#fff; text-shadow:1px 0px 2px #222; text-align:center; text-transform:capitalize;}
+.magento_contact h3 span{font:700 35px/44px 'Roboto', serif;}
+
+.mag_contact_btn, .mag_contact_btn:visited{background:#02a7c3;display:inline-block;text-align:center;color:#fff;font:500 25px/44px 'Roboto', serif;height:44px;padding:0px 28px;cursor:pointer;border-radius:3px;border-radius:5px;margin-right:15px;box-shadow:0 2px  5px #666; margin-left:15px;}
+.mag_contact_btn:hover{color:#fff;background:#143e79;text-decoration:none}
+/*Magento Development Services*/
+
+
+/*Consult Experts*/
+.face_box{background:#eeeeee; padding:30px; text-align:center;  }
+.face_box h3, .face_box p.strong{display:inline-block;font:700 42px/42px 'Roboto', serif;color:#0078ae; text-transform:capitalize;}
+.face_box h3, .face_box p.strong span{font:300 42px/42px 'Roboto', serif;}
+.face_box:hover{background:#fff;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}  
+.face_btn, .face_btn:visited{background:#ff8515;display:inline-block;text-align:center;color:#fff;font:500 20px/44px 'Roboto', serif;height:44px;padding:0px 28px;cursor:pointer;border-radius:3px;border-radius:5px;margin-right:15px;box-shadow:0 2px  5px #666; text-shadow:1px 0 5px #222; margin-left:15px; vertical-align:middle}
+.face_btn:hover{color:#fff;background:#0078ae;text-decoration:none; text-shadow:none;}
+
+.face_box2{background:#fff; padding:30px; text-align:center;}
+.face_box2:hover{background:#eee;}
+
+.face_box2 h3, .face_box2 p.strong{display:inline-block;font:700 42px/42px 'Roboto', serif;color:#0078ae; text-transform:capitalize;}
+.face_box2 h3, .face_box2 p.strong span{font:300 42px/42px 'Roboto', serif;}
+.face_box2 span{font:800 48px/48px 'Roboto', serif;} 
+/*Consult Experts*/
+
+
+
+/*Drupal for a CMS website*/
+.cms_bg{background:#052149;}
+.cms_sec h2{font:300 47px/47px 'Roboto', serif;display:block;color:#fff; text-align:center; margin:28px 0 35px 0;}
+.cms_sec h2 span{font:700 47px/47px 'Roboto', serif}
+
+
+.cms_sec_box{ border:1px dashed #fff; border-radius:15px; padding:10px;}
+.cms_sec_box:hover{border:1px dashed #0cc5cc; box-shadow:1px 0 15px #224c88; }
+.cms_sec_box .sec1{float:left;}
+.cms_sec_box .sec2{float:left; width:80%; margin-left:10px;}
+
+.cms_sec_box h3{font:700 18px/26px 'Roboto', serif;color:#fff;text-transform:capitalize;}
+.cms_sec_box .sec2_cnt{font:14px/20px 'Roboto', serif;color:#fff; margin-top:10px; height:85px; overflow:hidden; }
+
+.cms_box{width:90px;height:90px; margin:auto;overflow:hidden;}
+.cms_box figure{width:90px;height:90px;display:table-cell;vertical-align:middle;text-align:center;}
+.cms_box img{display:block;margin:auto; max-width:100%; height:auto;}
+
+.cms_sec_box svg{transition:all linear .2s}
+.cms_sec_box:hover svg{transform:scale(1.1)}
+/*Drupal for a CMS website*/
+
+/*Why WeblinkIndia*/
+.why_bg{background:#0cc5cc;}
+.why_sec h2{font:300 47px/47px 'Roboto', serif;display:block;color:#fff; text-align:center; margin:28px 0 35px 0;}
+.why_sec h2 span{font:700 47px/47px 'Roboto', serif}
+.why_box1 p span{ border:4px solid #fff; width:70px; height:70px; border-radius:100%; padding:10px 20px; font:700 36px/36px 'Roboto', serif;color:#fff; text-align:center;}
+.why_box1:hover p span{background:#fff; border:4px solid #ff8515;color:#222;}
+
+
+.why_box_cnt{font:16px/20px 'Roboto', serif;color:#fff; margin-top:25px; }
+.why_box_cnt span{font:700 28px/28px 'Roboto', serif; text-transform:uppercase;}
+
+.why_box_list ul, .wordpress_list ul li{margin:0;padding:0;list-style:none}
+.why_box_list ul li{float:left;width:33.3333%;margin-bottom:25px}
+.why_box2{width:100%; margin:auto;}
+.why_box2 p span{ border:4px solid #fff; width:70px; height:70px; border-radius:100%; padding:14px 10px; font:700 36px/36px 'Roboto', serif;color:#fff; text-align:center; float:left; margin-right:10px;}
+.why_box2:hover p span{background:#fff; border:4px solid #ff8515;color:#222;}
+
+
+
+.why_box2 .box_cnt {font:16px/20px 'Roboto', serif;color:#fff; height:100px; overflow:hidden;}
+
+/*Why WeblinkIndia*/
+
+/*Drupal Project Requirement*/
+
+.drupal_project h3{font:300 42px/42px 'Roboto', serif;display:block;color:#333333; text-align:center; margin:28px 0 25px 0; text-transform:capitalize;}
+.drupal_project h3 span{font:700 42px/42px 'Roboto', serif}
+
+.drupal_btn, .drupal_btn:visited{background:#ff8515;display:inline-block;text-align:center;color:#fff;font:500 20px/44px 'Roboto', serif;height:44px;padding:0px 48px;cursor:pointer;border-radius:3px;border-radius:5px;margin-right:15px;box-shadow:0 2px  5px #666; text-shadow:1px 0 5px #222; margin-left:15px; vertical-align:middle}
+.drupal_btn:hover{color:#222;background:#fff;text-decoration:none; text-shadow:none;}
+/*Drupal Project Requirement*/
+
+/*Ideas That Attract And Engage*/
+.ideas_sec_bg{background:url(https://www.weblinkindia.net/images/webdesign-bg.jpg) center top no-repeat;background-size:cover;background-attachment: fixed;min-height:511px}
+.web_sec_m{margin-top:56px}
+.ideas_mt{margin-top:24px;}
+
+.ideas_mt h3{font:700 2.5em/1.1em 'Roboto', serif;display:block;color:#fff; text-align:center; text-transform:capitalize;}
+
+.ideas_list_mt{margin-top:35px; height:300px;}
+.ideas_list ul, .ideas_list ul li{margin:0;padding:0;list-style:none}
+.ideas_list ul li{float:left;width:25%;margin-bottom:20px}
+.ideas_list_area{width:270px;margin:auto;transition:all linear .2s;}
+.ideas_list_area:hover{transform:scale(1.1)}
+
+
+.ideas_list_img{width:270px;height:190px;overflow:hidden;background:#fff;padding:10px;border-radius:10px;}
+.ideas_list_img figure{width:250px;height:170px;display:table-cell;text-align:center;vertical-align:middle}
+.ideas_list_img img{display:block;margin:auto;max-width:100%;height:auto}
+.ideas_list_cnt{text-align:center;}
+.ideas_title a{font:700 18px/34px 'Roboto', serif; color:#fff; margin-top:20px;}
+.ideas_cnt{font:15px 'Roboto', serif; color:#fff;}
+
+.ideas_btn_sec{margin:40px auto; text-align:center;}
+
+.ideas_btn, .ideas_btn:visited{background:#ff8515;display:inline-block;text-align:center;color:#fff;font: 16px/42px 'Open Sans',Arial, Helvetica, sans-serif;height:42px;padding:0px 25px;cursor:pointer;border-radius:3px;border:0px;border-radius:5px;margin-right:15px; text-shadow:1px 0 5px #222;}
+.ideas_btn:hover{color:#fff;background:#01a1ba;text-decoration:none}
+
+.ideas_btn2, .ideas_btn2:visited{background:none;display:inline-block;text-align:center;color:#fff;font: 16px/42px 'Open Sans',Arial, Helvetica, sans-serif;height:45px;padding:0px 25px;cursor:pointer;border-radius:3px;border:2px solid #fff;border-radius:5px;margin-right:15px}
+.ideas_btn2:hover{color:#fff;text-decoration:none;background:#01a1ba;border:2px solid #01a1ba}
+
+/*Ideas That Attract And Engage*/
+
+/*Hire PHP Developers*/
+.hire_bg{background:#039d62;}
+.hire_sec{text-align:center;}
+.hire_sec h2{display:inline-block;font:700 42px/42px 'Roboto', serif;color:#fff; text-transform:capitalize;}
+.hire_sec h2 span{font:300 42px/42px 'Roboto', serif;}
+.hire_cnt{font:700 16px/26px 'Roboto', serif;color:#fff;text-align:center; margin:16px 0px}
+
+.web_sec_list_m{margin-top:15px}
+.web_list ul, .web_list ul li{margin:0;padding:0;list-style:none}
+.web_list ul li{float:left;width:33.3333%;margin-bottom:30px}
+.web_list ul li .web_main_area{width:365px;margin:auto;position:relative;transition:all .3s linear}
+/*.web_list ul li .web_main_area:hover .web_area{display:none}*/
+.web_list ul li .web_area{width:365px;margin:auto;padding:35px 15px;border:1px solid #fff;border-radius:10px}
+.web_list ul li .web_area .web_img{width:100px;height:100px;margin:auto;overflow:hidden}
+.web_list ul li .web_area figure{width:100px;height:100px;display:table-cell;vertical-align:middle;text-align:center}
+.web_list ul li .web_area figure img{display:block;margin:auto}
+.web_area h3, .web_area p.strong, .web_area p.strong{font:700 20px/22px 'Roboto', serif;color:#fff;text-align:center;margin-top:20px; text-transform:capitalize;height:32px; overflow:hidden}
+.web_box{background:#fff;width:100%;border-radius:10px;z-index:9;position:absolute;transition:all .3s linear;opacity:0;top:40px;left:0px;}
+.web_main_area:hover .web_box{opacity:9;position:absolute;top:-0px;left:0px}
+.web_box> div{padding:10px 20px !important;text-align:center}
+.web_box h3, .web_box p.strong {font:700 22px/32px 'Roboto', serif;color:#039d62;text-align:center;padding-top:10px;text-transform:capitalize; }
+
+.web_cnt{font:16px/20px 'Roboto', serif;color:#333333;padding-top:10px;height:100px; overflow:hidden}
+/*Hire PHP Developers*/
+
+
+/*Why Your Project needs PHP*/
+.php_bg{ background:url(https://www.weblinkindia.net/images/php-bg.jpg);}
+.php_sec{text-align:center;}
+.php_sec h3{display:inline-block;font:700 47px/47px 'Roboto', serif;color:#0078ae; text-transform:capitalize; margin:15px 0 30px 0;}
+.hire_sec h2 span{font:300 47px/47px 'Roboto', serif;}
+.php_img{text-align:center;}
+
+.php_box{background:#ffffff; width:100%; padding:15px 10px; border-radius:10px; margin:28px 0 28px;}
+.php_box:hover{background:#ddf4ff; box-shadow:1px 0 5px #666;}
+
+.php_sec1{float:left;}
+.php_sec2{float:left; width:82%; margin-left:8px; text-align:left;}
+/*Why Your Project needs PHP*/
+
+/*Benefits of our PHP Development*/
+.benefits_bg{background:url(https://www.weblinkindia.net/images/benefits_bg.jpg) center top no-repeat;width:100%;height:607px;background-attachment:local; background-size:cover}
+.benefits_sec{ text-align:center;}
+.benefits_sec h2{display:inline-block;font:700 47px/47px 'Roboto', serif;color:#fff; text-transform:capitalize; margin:15px 0 30px 0;}
+.hire_sec h2 span{font:300 47px/47px 'Roboto', serif;}
+.benefits_img{text-align:left;}
+.benefits_box{background:rgba(255,255,255, .8); border-radius:10px; padding:15px;}
+.benefits_box .sec1{float:left;}
+.benefits_box .sec2{float:left; width:70%; margin-left:10px;  text-align:left;font:15px/18px 'Roboto', serif;color:#333333;}
+/*Benefits of our PHP Development*/
+
+/*Portfolio*/
+.portfolio_m_w{width:95%; margin:auto;}
+
+/* ================= Desktop/Laptop below 1279px  ================= */
+@media only screen and (max-width:1220px){
+.container{width:100%}
+/*banner */
+.banner_area{width:160px;margin:auto;}
+.banner_list_cnt{position:absolute; z-index:9; top:52px; left:0px; text-align:center;}
+.banner_list_img{width:160px;height:169px;}
+.banner_list_img figure{width:160px;height:169px;}
+.banner_list_img img{display:block;margin:auto; max-width:100%; height:auto;}
+.banner_btn{width:50%; margin:auto;}
+/*banner */
+
+/*Magento Development Services*/
+.magento_tab_links a{width:14.8%;}
+/*Magento Development Services*/
+
+/*Drupal for a CMS website*/
+.cms_sec_box h3{font:700 16px/24px 'Roboto', serif;color:#fff;text-transform:capitalize;}
+/*Drupal for a CMS website*/
+
+/*Hire PHP Developers*/
+.web_list ul li .web_main_area{width:355px;margin:auto;}
+.web_list ul li .web_area{width:355px;margin:auto;}
+/*Hire PHP Developers*/
+
+/*Why Your Project needs PHP*/
+.php_sec2{float:left; width:75%; margin-left:8px; text-align:left;}
+/*Why Your Project needs PHP*/
+
+
+}
+
+
+
+/* ================= Desktop/Laptop below 1152px  ================= */
+@media only screen and (max-width:1151px){	
+
+/*banner */
+.banner_sec h1{font:900 40px/40px 'Roboto', serif;}
+.banner_sec h1 span{font:300 20px/20px 'Roboto', serif;}
+.banner_cnt {font: 300 18px/20px 'Roboto', serif;}
+.banner_list_cnt{font:300 13px/16px 'Roboto', serif; padding:0px 20px;}
+.banner_area{width:140px;margin:auto;}
+.circle1_sec2{float:right; width:60%; margin-top:10px; text-align:left;}
+.circle1_sec2 p{font:700 14px/20px 'Roboto', serif; color:#fff;}
+.circle1_sec2 p span{font:13px/18px 'Roboto', serif;}
+/*banner */
+
+/*Magento Development Services*/
+.magento_tab_links a{font:700 18px/20px 'Roboto',Arial,Helvetica,sans-serif; width:14.5%;}
+.magento_dev_list ul li .magento_dev_area{width:150px;margin:auto;}
+.wordpress_title a{font:500 14px/18px 'Roboto', serif;color:#555555; margin-top:18px;}
+/*Magento Development Services*/
+
+/*Ideas That Attract And Engage*/
+.ideas_list_mt{margin-top:35px; height:280px;}
+.ideas_list_area{width:230px;}
+.ideas_list_img{width:210px;height:163px;}
+.ideas_list_img figure{width:210px;height:143px;}
+.ideas_title a{font:700 15px/30px 'Roboto', serif; color:#fff;}
+.ideas_cnt{font:12px 'Roboto', serif; color:#fff;}
+/*Ideas That Attract And Engage*/
+
+/*Hire PHP Developers*/
+.web_list ul li .web_main_area{width:315px;margin:auto;}
+.web_list ul li .web_area{width:315px;margin:auto;}
+.web_box h3, .web_box p.strong {font:700 20px/28px 'Roboto', serif;}
+.web_cnt{font:14px/20px 'Roboto', serif;color:#333333;padding-top:10px; margin-bottom:10px;height:92px; overflow:hidden}
+/*Hire PHP Developers*/
+
+
+/*Benefits of our PHP Development*/
+
+.benefits_img img{text-align:left;  display:block; margin:auto; max-width:90%; height:auto;}
+.benefits_box .sec1{float:left;}
+.benefits_box .sec2{font:13px/18px 'Roboto', serif;color:#333333;}
+/*Benefits of our PHP Development*/
+
+
+
+
+}
+
+
+/* ================= Tablet (Portrait) 768px - 959px ================= */
+@media only screen and (max-width: 991px) {
+	
+/*banner */
+.promotion_banner{background:#039d62;width:100%;height:auto; }
+.banner_sec1{width:42%; float:left; margin:35px 25px 0 30px; position:relative; }
+.circle1_sec2{float:right; width:70%; margin-top:5px; text-align:left;}
+.banner_btn_area{width:100%; margin-top:30px;}
+.banner_btn{width:35%; margin:auto; border-radius:5px;}
+
+/*banner */
+
+/*Magento Development Services*/
+.magento_box h2{font:300 37px/37px 'Roboto', serif;display:block;color:#0078ae}
+.magento_box h2 span{font:700 37px/37px 'Roboto', serif}
+.magento_tab_links a{font:700 11px/16px 'Roboto',Arial,Helvetica,sans-serif; width:13.8%; height:100px; padding:0 10px;}
+.magento_tab_links a.act span{position:absolute; z-index:9; bottom:-18px; left:40%;display:block;}
+.magento_blue_box{ margin-top:20px;}
+.magento_tab_links a b{ width:13.8%; height:100px; vertical-align:middle; display:table-cell;} 
+.magento_dev_list ul li{float:left;width:25%;margin-bottom:27px}
+
+/*tab*/
+.tab_sec2{float:right; width:65% !important;}
+
+.heading-hide{background:#fff url(https://www.weblinkindia.net/images/p3.png) no-repeat 96% center; cursor:pointer;font:700 20px/26px 'Roboto',Arial,Helvetica,sans-serif; color:#222;display:block;padding:10px 10px; margin:8px 0; line-height:20px; text-align:left; border-radius:5px 5px 0 0;transition:all linear .3s; -webkit-transition:all linear .3s; -moz-transition:all linear .3s; -ms-transition:all linear .3s; margin-bottom:1px; box-shadow:1px 0 5px #ccc;}.dd_next_act{background:#fff url(https://www.weblinkindia.net/images/p4.png) no-repeat 96% center;}
+
+.f_dd_box{display:none;}
+.tabs_cont2{display:none;}
+
+/*Magento Development Services*/
+
+
+/*Face Lift*/
+.face_box h3, .face_box p.strong{display:inline-block;font:700 28px/32px 'Roboto', serif;}
+.face_box h3, .face_box p.strong span{font:300 28px/28px 'Roboto', serif;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}
+
+.face_box2 h3, .face_box2 p.strong{display:inline-block;font:700 28px/32px 'Roboto', serif;}
+.face_box2 h3, .face_box2 p.strong span{font:300 28px/28px 'Roboto', serif;}
+.face_box2 span{font:800 48px/48px 'Roboto', serif;}
+
+/*Face Lift*/
+
+/*Drupal for a CMS website*/
+.cms_sec h2{font:300 1.5em/1.5em 'Roboto', serif;}
+.cms_sec h2 span{font:700 1.5em/1.5em 'Roboto', serif}
+
+.cms_sec_box{text-align:center; padding:15px;}
+.cms_sec_box .sec1{float:none; margin:auto;}
+.cms_sec_box .sec2{float:none; width:100%; margin-top:15px; margin-left:0px;}
+/*Drupal for a CMS website*/
+
+/*Why WeblinkIndia*/
+.why_box_list ul li{float:left;width:50%;margin-bottom:25px}
+.why_box2 p span{border:4px solid #fff; width:70px; height:70px; border-radius:100%; padding:14px 10px; font:700 36px/36px 'Roboto', serif;color:#fff; text-align:center; float:left; margin-right:10px;}
+.why_box2 .box_cnt{font:16px/20px 'Roboto', serif;color:#fff; height:120px; overflow:hidden;}
+/*Why WeblinkIndia*/
+
+/*Drupal Project Requirement*/
+.drupal_project h3{font:300 24px/24px 'Roboto', serif;}
+.drupal_project h3 span{font:700 24px/24px 'Roboto', serif}
+/*Drupal Project Requirement*/
+
+/*Ideas That Attract And Engage*/
+.ideas_list ul li{float:left;width:50%;margin-bottom:40px}
+.ideas_list_area{width:230px;height:auto;}
+.ideas_btn_sec{margin:50px auto; text-align:center;}
+/*Ideas That Attract And Engage*/
+
+/*Hire PHP Developers*/
+.web_list ul li{float:left;width:50%;}
+.hire_sec h2{font:700 28px/28px 'Roboto', serif;}
+.hire_sec h2 span{font:300 28px/28px 'Roboto', serif;}
+.hire_cnt{font:700 14px/20px 'Roboto', serif;}
+/*Hire PHP Developers*/
+
+/*Why Your Project needs PHP*/
+.php_sec h3{font:700 37px/37px 'Roboto', serif;}
+.hire_sec h2 span{font:300 37px/37px 'Roboto', serif;}
+.php_img{text-align:center; margin-top:150px;}
+.php_img img{ display:block; margin:auto; max-width:95%; height:auto;}
+.php_sec2{float:left; width:75%;}
+/*Why Your Project needs PHP*/
+
+
+/*Benefits of our PHP Development*/
+.benefits_bg{width:100%;height:auto;}
+.benefits_sec h2{font:700 37px/37px 'Roboto', serif;}
+.hire_sec h2 span{font:300 37px/37px 'Roboto', serif;}
+.benefits_box .sec1{float:left;}
+.benefits_box .sec2{float:left; width:70%; margin-left:10px;  text-align:left;font:15px/18px 'Roboto', serif;color:#333333;}
+.benefits_box{margin-bottom:20px;}
+/*Benefits of our PHP Development*/
+
+
+}
+
+
+
+
+
+/* ================= Mobile (Landscape) 480px - 767px ================= */
+@media only screen and (max-width:767px) {
+/*banner */
+.banner_sec h1{font:700 1.2em/1.2em 'Roboto', serif; margin-bottom:5px;}
+.banner_cnt{font:300 1em/1em 'Roboto', serif;}
+
+.banner_sec1{width:44%; float:left; margin:35px 25px 0 0; position:relative;}
+.banner_circle1{width:70px; height:70px;}
+.banner_circle2{width:70px; height:70px;}
+.banner_circle3{width:70px; height:70px;}
+.banner_circle4{width:70px; height:70px;}
+
+.circle1_area{width:100%; position:absolute; z-index:9; top:5px; left:5px;padding:3px;}
+.circle1_area:hover{background:#e87e24; border-radius:30px; }
+.circle1_sec1{float:left;}
+.circle1_sec1 svg{ margin:0px 0px 0px 0px;}
+.circle1_sec2{float:right; width:63%; margin-top:5px; text-align:left;}
+.circle1_sec2 p{font:700 14px/20px 'Roboto', serif; color:#fff;}
+.circle1_sec2 p span{font:13px/18px 'Roboto', serif;}
+
+.banner_circle2{width:70px; height:70px; border-radius:100%; background:#7ebf42;}
+
+.banner_btn_area{width:100%; margin-top:30px;}
+.banner_btn{background:#7ebf42; text-align:center; padding:10px; width:50%; margin:auto; border-radius:5px;}
+
+/*banner */
+
+
+
+/*Magento Development Services*/
+.magento_tab{margin:0 0 0 0}
+.magento_box h2{font:300 1em/1em 'Roboto', serif;display:block;color:#0078ae}
+.magento_box h2 span{font:700 1em/1em 'Roboto', serif}
+.tab_bb{border-bottom:0px;}
+.magento_box p{ font-size:14px;}
+
+.magento_dev_title h3{font:300 1.5em/1em 'Roboto', serif;}
+.magento_dev_title h3 span{font:700 1em/1em 'Roboto', serif;}
+.magento_dev_btn, .magento_dev_btn:visited{ margin-bottom:20px; padding:0px 10px;}
+
+.magento_dev_title h5{font:300 1.5em/1em 'Roboto', serif;display:block;color:#0078ae}
+.magento_dev_title h5 span{font:700 1em/1em 'Roboto', serif}
+
+.tabs_cont2{ display:none;}
+/*tab*/
+.tab_sec2{float:none; width:100% !important;}
+
+.heading-hide h3, .heading-hide p.strong{font:700 14px/20px 'Roboto',Arial,Helvetica,sans-serif; color:#222;}
+.heading-hide{font:700 14px/20px 'Roboto',Arial,Helvetica,sans-serif;}
+
+
+
+/*Magento Development Services*/
+/*Face Lift*/
+.face_box{padding:20px; }
+.face_box h3, .face_box p.strong{display:inline-block;font:700 1.3em/1.3em 'Roboto', serif;}
+.face_box h3, .face_box p.strong span{font:300 1.3em/1.3em 'Roboto', serif;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}
+
+
+.face_box2{padding:20px; }
+.face_box2 h3, .face_box2 p.strong{display:inline-block;font:700 1.3em/1.3em 'Roboto', serif;}
+.face_box2 h3, .face_box2 p.strong span{font:300 1.3em/1.3em 'Roboto', serif;}
+.face_box2 span{font:800 48px/48px 'Roboto', serif;}
+/*Face Lift*/
+
+/*Ideas That Attract And Engage*/
+.ideas_mt h3{font:700 1em/1em 'Roboto', serif;display:block;color:#fff; text-align:center;}
+.ideas_mt p{font:300 1em/1.3em 'Roboto', serif}
+.ideas_btn_sec{margin:0px auto; text-align:center;}
+/*Ideas That Attract And Engage*/
+
+/*Hire PHP Developers*/
+.web_list ul li{float:none;width:100%;}
+.hire_sec h2{font:700 1.3em/1.3em 'Roboto', serif; margin-top:15px;}
+.hire_sec h2 span{font:300 1.3em/1.3em 'Roboto', serif;}
+.hire_cnt{font:700 13px/18px 'Roboto', serif;}
+.web_list ul li .web_main_area{width:430px;margin:auto;}
+.web_list ul li .web_area{width:430px;margin:auto;}
+/*Hire PHP Developers*/
+
+/*Why Your Project needs PHP*/
+.php_sec h3{font:700 1.3em/1.3em 'Roboto', serif;}
+.hire_sec h2 span{font:300 1.3em/1.3em 'Roboto', serif;}
+.php_img{text-align:center; margin-top:10px;}
+.php_img img{ display:block; margin:auto; max-width:55%; height:auto;}
+.php_sec2{float:left; width:85%;}
+/*Why Your Project needs PHP*/
+
+
+/*Benefits of our PHP Development*/
+.benefits_sec h2{font:700 1.3em/1.3em 'Roboto', serif;}
+.hire_sec h2 span{font:300 1.3em/1.3em 'Roboto', serif;}
+/*Benefits of our PHP Development*/
+
+
+}
+
+
+/* ================= Mobile (Portrait) below 480px  ================= */
+@media only screen and (max-width:479px) {
+/*banner */
+.banner_list ul li{float:none;width:100%;margin:25px 0 30px 0;}
+.banner_sec h1{font:900 1em/1em 'Roboto', serif;}
+.banner_sec h1 span{font:300 16px/20px 'Roboto', serif;}
+.banner_cnt {font: 300 14px/18px 'Roboto', serif; margin-top:0px;}
+.banner_list_cnt{font:300 13px/18px 'Roboto', serif; top:45px; padding:30px 20px;}
+
+.banner_sec1{width:100%; float:none; margin:15px 0 0 0; position:relative; }
+.circle1_sec2{float:right; width:72%; margin-top:5px; text-align:left;}
+
+.banner_btn_area{width:100%; margin-top:30px;}
+.banner_btn{width:100%; margin:auto; border-radius:5px;}
+/*banner */
+
+
+
+/*Face Lift*/
+.face_box{padding:20px; }
+.face_box h3, .face_box p.strong{display:inline-block;font:700 1em/1em 'Roboto', serif;}
+.face_box h3, .face_box p.strong span{font:300 1.3em/1em 'Roboto', serif;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}
+.face_btn, .face_btn:visited{font:500 16px/34px 'Roboto', serif;height:34px;padding:0px 20px; margin-top:10px;}
+
+.face_box2{padding:20px; }
+.face_box2 h3, .face_box2 p.strong{display:inline-block;font:700 1em/1em 'Roboto', serif;}
+.face_box2 h3, .face_box2 p.strong span{font:300 1.3em/1em 'Roboto', serif;}
+.face_box2 span{font:800 48px/48px 'Roboto', serif;}
+/*Face Lift*/
+
+/*Ideas That Attract And Engage*/
+.ideas_list_mt{margin-top:35px; height:auto;}
+.ideas_list ul li{float:none;width:100%;margin-bottom:30px}
+/*Ideas That Attract And Engage*/
+
+/*Ideas That Attract And Engage*/
+.ideas_btn, .ideas_btn:visited{display:block;}
+.ideas_btn2, .ideas_btn2:visited{display:block; margin-top:5px;}
+/*Ideas That Attract And Engage*/
+
+/*Hire PHP Developers*/
+.hire_sec h2{font:700 1em/1em 'Roboto', serif; margin-top:15px;}
+.hire_sec h2 span{font:300 1em/1em 'Roboto', serif;}
+.hire_cnt{font:300 13px/18px 'Roboto', serif;}
+.web_list ul li .web_main_area{width:270px;margin:auto;}
+.web_list ul li .web_area{width:270px;margin:auto;}
+.web_cnt{font:13px/20px 'Roboto', serif;color:#333333;padding-top:10px; margin-bottom:10px;height:110px; overflow:hidden}
+.web_area h3, .web_area p.strong{font:700 1em/1em 'Roboto', serif;}
+.web_box h3, .web_box p.strong{font:700 1em/1em 'Roboto', serif;}
+/*Hire PHP Developers*/
+
+/*Why Your Project needs PHP*/
+.php_sec h3{font:700 1em/1em 'Roboto', serif;}
+.hire_sec h2 span{font:300 1em/1em 'Roboto', serif;}
+.php_sec2{float:left; width:75%;}
+.php_box{margin:8px 0 28px;}
+.php_img{text-align:center; margin-top:0px;}
+/*Why Your Project needs PHP*/
+
+
+}

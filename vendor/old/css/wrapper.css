@@ -1,0 +1,69 @@
+   /*element.style {
+    background-color: transparent;
+    border: 0px;
+    bottom: 0px;
+    height: 108.25px;
+    max-height: 100%;
+    overflow: hidden;
+    position: fixed;
+    right: 0px;
+    visibility: visible;
+    width: 108.25px;
+    z-index: 2147483639;
+    left: auto;
+    opacity: 1;
+}
+.landing-framework *, .landing-framework :after, .landing-framework :before {
+    box-sizing: inherit;
+}
+* {
+    outline: 0;
+}*/
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from body.wide-tpl.landing-framework.single.single-kb.postid-95298.kb_which-chat-window-type-to-use.home.page
+body {
+    background-color: #f3f3f3;
+    font-family: Lato,'Helvetica Neue',Arial,sans-serif;
+    font-style: normal;
+    color: #000;
+    -webkit-font-smoothing: antialiased!important;
+    width: 100%;
+}
+article p, body {
+    font-weight: 300;
+}
+body {
+    background: #fff;
+    
+    line-height: 1.5;
+}
+Inherited from html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+/*button, html, input, select, textarea {
+    color: #222;
+}
+Pseudo ::before element
+.landing-framework *, .landing-framework :after, .landing-framework :before {
+    box-sizing: inherit;
+}
+Pseudo ::after element
+.landing-framework *, .landing-framework :after, .landing-framework :before {
+    box-sizing: inherit;
+}
+
+Pseudo ::selection element
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}*/
+
+
+
+

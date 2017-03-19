@@ -1,0 +1,103 @@
+body {
+	background-size: cover;
+    background-attachment: fixed;
+    background-image: url("img/bg.jpg");
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+}
+#demo * {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 100%;
+	font-family: 'Lato', sans-serif; /* Edit this if you want to match the font with your template design */
+	vertical-align: baseline;
+	line-height: normal;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#demo {
+	width: 100%;
+}
+#demo .heading {
+	display: block;
+	width: 100%;
+	padding: 40px;
+}
+#demo .heading h1 {
+	font-size: 24px;
+	color: #fff;
+	text-transform: uppercase;
+	display: block;
+	padding-left: 42px;
+	margin: 0;
+	background: url("img/titleIcon.png") no-repeat 0 0;
+}
+#demo .heading h2 {
+	margin: 0;
+	color: #fff;
+	font-size: 10px;
+	padding: 6px 0;
+
+}
+#demo .heading h2 b {
+	font-weight: 300;
+}
+#demo .heading a {
+	background: #fa5454;
+	color: #fff;
+	display: inline-block;
+	clear: both;
+	text-decoration: none;
+	padding: 6px 12px;
+	font-size: 12px;
+	margin-top: 16px;
+	text-transform: uppercase;
+}
+#demo .heading a:hover {
+	background: #fff;
+	color: #222
+}
+#demo .nav {
+	margin: 40px;
+	float: left;
+}
+#demo p {
+	font-size: 14px;
+	color: #fff;
+	margin: 40px 40px 0 40px;
+}
+#demo .nav a {
+	display: block;
+	float: left;
+	background: #9499C2;
+	color: #fff;
+	text-decoration: none;
+	font-size: 12px;
+	width: auto;
+	clear: both;
+	padding: 6px 14px 6px 0;
+	margin-bottom: 10px;
+	position: relative;
+}
+#demo .nav a span {
+	color: #585A69;
+	padding: 0 6px;
+}
+#demo .nav a:hover,
+#demo .nav a.active {
+	background: #fff;
+	color: #222;
+}
+#demo a {
+	-webkit-transition: all 0.1s ease;
+	-moz-transition: all 0.1s ease;
+	-ms-transition: all 0.1s ease;
+	-o-transition: all 0.1s ease;
+	transition: all 0.1s ease;
+}

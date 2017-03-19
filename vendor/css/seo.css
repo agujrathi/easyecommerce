@@ -1,0 +1,307 @@
+@charset "utf-8";
+.container{width:1200px;padding:0 15px}
+
+.arrow_drupal{text-align:center;}
+.arrow_drupal:hover path:nth-child(odd){background:#fff; fill:#f79030 !important;  position:absolute; z-index:9; top:0px; left:0px;} 
+
+
+/*banner */
+.seo_banner{background:url(https://www.weblinkindia.net/images/seo-banner-bg.jpg) center top no-repeat;width:100%;height:532px;background-attachment:local; background-size:cover}
+.web_banner_img{}
+.web_banner_img img{display:block; margin:auto; max-width:100%; height:auto; vertical-align:bottom;}
+.banner_sec{ padding-top:20px;}
+.banner_sec h1{font:900 47px/47px 'Roboto', serif;display:block;color:#fff; border-bottom:0px; text-shadow:#666 1px 2px 3px; text-align:center;}
+.banner_cnt{ font:300 20px/30px 'Roboto', serif; color:#fff; text-align:center; text-shadow:#666 1px 2px 3px;}
+.banner_cnt span{font:700 24px/40px 'Roboto', serif; color:#eada6a;}
+.banner_cnt_rgt{ float:left; margin:25px 0 0 6px;}
+
+.ban_bg1{background:#fff; background:rgba(255,255,255,0.7); padding:13px 25px 13px 10px; width:472px; border-radius:10px; margin-bottom:8px; box-shadow:#999 2px 2px 3px;}
+.ban_bg1:hover{background:rgba(255,255,255,1);}
+.ban_bg1 p{background:url(https://www.weblinkindia.net/images/b-arrow2.svg) no-repeat 0px 0px; padding-left:35px;font:15px 'Roboto', serif; color:#555555;}
+.ban_bg2{background:#fff; background:rgba(255,255,255,0.7); padding:13px 25px 13px 10px; width:472px; border-radius:10px; margin:0 0 8px 23%; box-shadow:#999 2px 2px 3px;}
+.ban_bg2:hover{background:rgba(255,255,255,1);}
+.ban_bg2 p{background:url(https://www.weblinkindia.net/images/b-arrow2.svg) no-repeat 0px 0px; padding-left:35px;font:15px 'Roboto', serif; color:#555555;}
+.ban_bg3{ background:#fff; background:rgba(255,255,255,0.7); padding:13px 25px 13px 10px; width:472px; border-radius:10px; margin-bottom:8px; box-shadow:#999 2px 2px 3px;}
+.ban_bg3 p{background:url(https://www.weblinkindia.net/images/b-arrow2.svg) no-repeat 0px 0px; padding-left:35px;font:15px 'Roboto', serif; color:#555555;}
+.ban_bg3:hover{background:rgba(255,255,255,1);}
+.ban_bg4{ background:#fff; background:rgba(255,255,255,0.7); padding:13px 25px 13px 10px; width:472px; border-radius:10px; margin:0 0 8px 23%; box-shadow:#999 2px 2px 3px;}
+.ban_bg4 p{background:url(https://www.weblinkindia.net/images/b-arrow2.svg) no-repeat 0px 0px; padding-left:35px;font:15px 'Roboto', serif; color:#555555;}
+.ban_bg4:hover{background:rgba(255,255,255,1);}
+
+.banner_btn{background:#ea4234; text-align:center; padding:10px; width:45%; border-radius:5px; margin-top:10px;}
+.banner_btn:hover{background:#ff8515;}
+.banner_btn .title a{font:700 22px/22px 'Roboto', serif; color:#fff; }
+.banner_btn .title_sub{font:300 15px/18px 'Roboto', serif; color:#fff;}
+/*banner */
+
+
+/*Mobile Apps Development Services*/
+.cms_website_bg{ background:url(https://www.weblinkindia.net/images/cms-website-bg.gif);}
+.aap_service_sec{}
+.aap_service_sec h2{font:800 47px/47px 'Roboto',Arial,Helvetica,sans-serif;display:block;color:#0078ae; text-align:center; margin-bottom:20px;}
+.seo_service_img{background:url(https://www.weblinkindia.net/images/seo.svg) no-repeat 0px 0px; text-align:center; width:540px; height:121px; margin:auto;}
+
+.aap_service_list ul, .aap_service_list ul li{margin:0;padding:0;list-style:none}
+.aap_service_list ul li{float:left;width:50%;}
+
+.aap_service_area{width:100%; margin:25px auto;}
+.aap_service_sec1{float:left;}
+.aap_service_sec2{float:left; width:78%; margin-left:20px;}
+.aap_service_sec2 h3, .aap_service_sec2 p.strong a{font:700 22px/22px 'Roboto',Arial,Helvetica,sans-serif; color:#0078ae; text-transform:capitalize; height:50px;overflow:hidden;}
+.aap_service_sec2 .aap_cnt{font:16px/24px 'Roboto',Arial,Helvetica,sans-serif; color:#333; padding-top:3px; height:120px;}
+
+.aap_service_img{ width:100px;height:102px; margin:auto;overflow:hidden; text-align:center;}
+.aap_service_img figure{width:100px;height:102px;display:table-cell;vertical-align:middle;text-align:center}
+.aap_service_img img{display:block;margin:auto; max-width:100%; height:auto;}
+/*Mobile Apps Development Services*/
+
+/*Consult Experts*/
+.face_box{background:#0078ae; padding:30px; text-align:center;}
+.face_box h3, .face_box p.strong{display:inline-block;font:700 42px/42px 'Roboto', serif;color:#fff; text-transform:capitalize;}
+.face_box h3, .face_box p.strong span{font:100 42px/42px 'Roboto', serif;}
+.face_box:hover{background:#056b99;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}
+
+.face_btn, .face_btn:visited{background:#ff8515;display:inline-block;text-align:center;color:#fff;font:500 18px/40px 'Roboto', serif;height:40px;padding:0px 28px;cursor:pointer;border-radius:3px;border-radius:5px;margin-right:15px;box-shadow:0 2px  5px #666; text-shadow:1px 0 5px #222; margin-left:15px; vertical-align:middle}
+.face_btn:hover{color:#fff;background:#e37006;text-decoration:none; text-shadow:none;}
+/*Consult Experts*/
+
+/*Our SEO Package Covers*/
+.seo_pack_bg{ background:#004e71; padding-bottom:35px;}
+.seo_pack{margin-top:20px;}
+.seo_pack h2{font:800 47px/47px 'Roboto',Arial,Helvetica,sans-serif;display:block;color:#fff; text-align:center; margin-bottom:15px;}
+.seo_pack h2 span{font:300 47px/47px 'Roboto',Arial,Helvetica,sans-serif;}
+.seo_cnt{font:22px/22px 'Roboto',Arial,Helvetica,sans-serif; color:#fff; text-align:center;}
+.sep_pack_img{background:url(https://www.weblinkindia.net/images/seo-pack.svg) no-repeat 0px 0px; width:575px; height:339px; margin:auto; margin-top:15px;}
+.seo_pack_lft{text-align:right; font:700 30px/28px 'Roboto',Arial,Helvetica,sans-serif; color:#fff; text-transform:uppercase; margin-top:120px;}
+.seo_pack_lft p{ margin-bottom:60px;}
+.seo_pack_rgt{text-align:left; font:700 30px/28px 'Roboto',Arial,Helvetica,sans-serif; color:#fff; text-transform:uppercase; margin:120px 0 0 15px;}
+.seo_pack_rgt p{ margin-bottom:60px;}
+
+.seopack_btn, .seopack_btn:visited{background:#0cc5cc;display:inline-block;text-align:center;color:#fff;font:500 21px/50px 'Roboto', serif;height:50px;padding:0px 35px;cursor:pointer;border-radius:25px;margin-right:15px; text-shadow:1px 0 5px #999; margin-left:15px; vertical-align:middle; text-transform:uppercase;}
+.seopack_btn:hover{color:#fff;background:#00a2a8;text-decoration:none; text-shadow:none;}
+
+.askquote_btn, .askquote_btn:visited{background:#ff8515;display:inline-block;text-align:center;color:#fff;font:500 21px/50px 'Roboto', serif;height:50px;padding:0px 35px;cursor:pointer;border-radius:25px;margin-right:15px; text-shadow:1px 0 5px #999; margin-left:15px; vertical-align:middle; text-transform:uppercase;}
+.askquote_btn:hover{color:#fff;background:#e37006;text-decoration:none; text-shadow:none;}
+
+
+/* Why So Many Businesses */
+.why_seo_bg{ background:url(https://www.weblinkindia.net/images/why-seo-bg.png);}
+.choose_img{background:url(https://www.weblinkindia.net/images/why-seo-img.png) right bottom no-repeat; min-height:615px;}
+.arrow_why_seo{background:url(https://www.weblinkindia.net/images/d-aro.svg) no-repeat center top; width:185px; height:40px; text-align:center; margin:auto;}
+.arrow_why_seo:hover path:nth-child(odd){background:#222; fill:#222 !important; position:absolute; z-index:9; top:0px; left:0px;}
+.why_seo_box{padding:25px 0px;}
+.why_seo_box h3{font:700 47px/47px 'Roboto', serif;display:block;color:#0078ae; text-transform:none;}
+.why_seo_list{ float:left; width:45%; margin:0 25px 25px 0;}
+.why_seo_list h3, .why_seo_list p.strong{font:700 24px/24px 'Roboto', serif; margin-top:15px; text-transform:none; color:#0078ae;}
+.why_seo_list .choose_ico{ float:left; margin-right:10px;}
+/* Why So Many Businesses */
+
+
+
+/*Mobile Apps Development Services*/
+.seo_case_bg{ background:#fff; padding-bottom:35px;}
+.seo_case_sec h3{font:300 47px/47px 'Roboto',Arial,Helvetica,sans-serif;display:block;color:#0078ae; text-align:center; text-transform:capitalize;}
+.seo_case_sec h3 span{font:800 47px/47px 'Roboto',Arial,Helvetica,sans-serif;}
+.seo_case_cnt{ text-align:center; font-size:18px;}
+.seo_case_bg ul{ margin:10px 0 0 25px; padding:0 ; list-style:url(https://www.weblinkindia.net/images/seo-case-arr.svg);}
+.seo_case_bg ul li{ margin:0; padding:5px 0 5px 0; font-size:16px;}
+
+/*Looking For Search Engine Optimization Services?*/
+.seo_service{background:#ededed; padding:30px; text-align:center;}
+.seo_service h3, .seo_service p.strong{display:inline-block;font:700 42px/42px 'Roboto', serif;color:#0078ae; text-transform:capitalize;}
+.seo_service h3, .seo_service p.strong span{font:300 42px/42px 'Roboto', serif;}
+.seo_service:hover{background:#e0dddd;}
+.seo_service span{font:800 48px/48px 'Roboto', serif;}
+
+
+
+
+/* ================= Desktop/Laptop below 1279px  ================= */
+@media only screen and (max-width:1220px){
+.container{width:100%}
+
+/*banner */
+.ban_bg1{ width:460px;}
+.ban_bg2{ width:460px; margin:0 0 8px 18%;}
+.ban_bg3{ width:460px;}
+.ban_bg4{ width:460px; margin:0 0 8px 18%;}
+/*banner */
+
+
+/* Why So Many Businesses */
+.why_seo_box h3{font:700 37px/37px 'Roboto', serif;}
+.why_seo_list h3, .why_seo_list p.strong{font:700 20px/24px 'Roboto', serif;}
+/* Why So Many Businesses */
+
+
+/*Looking For Search Engine Optimization Services?*/
+.seo_service h3, .seo_service p.strong{font:700 30px/30px 'Roboto', serif;}
+.seo_service h3, .seo_service p.strong span{font:300 30px/30px 'Roboto', serif;}
+
+
+}
+
+
+
+/* ================= Desktop/Laptop below 1152px  ================= */
+@media only screen and (max-width:1151px){	
+
+/*banner */
+.banner_cnt{ font:300 18px/30px 'Roboto', serif;}
+.ban_bg1{ width:420px;}
+.ban_bg1 p{font:13px 'Roboto', serif;}
+.ban_bg2{ width:420px; margin:0 0 8px 15%;}
+.ban_bg2 p{font:13px 'Roboto', serif;}
+.ban_bg3{ width:420px;}
+.ban_bg3 p{font:13px 'Roboto', serif;}
+.ban_bg4{ width:420px; margin:0 0 8px 15%;}
+.ban_bg4 p{font:13px 'Roboto', serif;}
+.banner_btn{ width:55%;}
+/*banner */
+
+
+/*Mobile Apps Development Services*/
+.aap_service_sec2 h3, .aap_service_sec2 p.strong a{font:700 17px/18px 'Roboto',Arial,Helvetica,sans-serif;}
+.aap_service_sec2 .aap_cnt{font:14px/20px 'Roboto',Arial,Helvetica,sans-serif;}
+
+
+/*Our SEO Package Covers*/
+.sep_pack_img{background:url(https://www.weblinkindia.net/images/seo-pack.svg) no-repeat center; width:580px;}
+
+
+/* Why So Many Businesses */
+.why_seo_box{ text-align:center;}
+.why_seo_list{ width:48%; margin:0 8px 25px 0;}
+.why_seo_list h3, .why_seo_list p.strong{font:700 18px/20px 'Roboto', serif;}
+
+}
+
+
+/* ================= Tablet (Portrait) 768px - 959px ================= */
+@media only screen and (max-width: 991px) {
+	
+/*banner */
+.banner_cnt{ font:300 17px/22px 'Roboto', serif; text-align:center;}
+.ban_bg1{ width:auto;}
+.ban_bg1 p{ min-height:25px;}
+.ban_bg2{ width:auto; margin:0 0 8px 0;}
+.ban_bg2 p{ min-height:25px;}
+.ban_bg3{ width:auto;}
+.ban_bg3 p{ min-height:25px;}
+.ban_bg4{ width:auto; margin:0 0 8px 0;}
+.ban_bg4 p{ min-height:25px;}
+.banner_btn{ width:40%; margin:auto; margin-top:15px;}
+
+/*Mobile Apps Development Services*/
+.aap_service_sec{margin-top:25px;}
+.aap_service_sec h2{font:800 37px/37px 'Roboto',Arial,Helvetica,sans-serif;}
+.aap_service_list ul li{float:none;width:100%; margin-bottom:45px;}
+.aap_service_sec2{float:left; width:83%; }
+.aap_service_sec2 h3, .aap_service_sec2 p.strong a{font:700 18px/18px 'Roboto',Arial,Helvetica,sans-serif;}
+.aap_service_sec2 .aap_cnt{font:300 14px/20px 'Roboto',Arial,Helvetica,sans-serif; height:auto;}
+/*Mobile Apps Development Services*/
+
+/*Face Lift*/
+.face_box h3, .face_box p.strong{display:inline-block;font:700 28px/32px 'Roboto', serif;color:#fff; text-shadow:1px 0 5px #222;}
+.face_box h3, .face_box p.strong span{font:100 28px/28px 'Roboto', serif;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}
+/*Face Lift*/
+
+/* Why So Many Businesses */
+.choose_img{background:none; min-height:inherit;}
+
+/*Looking For Search Engine Optimization Services?*/
+.seo_service h3, .seo_service p.strong{font:700 22px/22px 'Roboto', serif;}
+.seo_service h3, .seo_service p.strong span{font:300 22px/22px 'Roboto', serif;}
+
+/*Our SEO Package Covers*/
+.seo_pack_lft{ text-align:center; margin:25px 0 0 0;}
+.seo_pack_lft p{ margin:15px 0 0 0;}
+.seo_pack_rgt{ text-align:center; margin:0;}
+.seo_pack_rgt p{ margin:15px 0 0 0;}
+
+}
+
+
+/* ================= Mobile (Landscape) 480px - 767px ================= */
+@media only screen and (max-width:767px) {
+
+/*banner */
+.seo_banner{height:auto;}
+.banner_sec h1{font:900 1.4em/1.1em 'Roboto', serif;}
+.banner_cnt{ font:300 14px/18px 'Roboto', serif;}
+.banner_btn{ width:260px;}
+
+/*Mobile Apps Development Services*/
+.seo_service_img{width:280px; height:121px;}
+.aap_service_sec{margin-top:25px;}
+.aap_service_sec h2{font:800 1.1em/1.1em 'Roboto',Arial,Helvetica,sans-serif;}
+.aap_service_list ul li{float:none;width:100%; margin-bottom:45px;}
+.aap_service_sec2{float:left; width:70%; }
+.aap_service_sec2 h3, .aap_service_sec2 p.strong a{font:700 14px/18px 'Roboto',Arial,Helvetica,sans-serif;}
+.aap_service_sec2 .aap_cnt{font:300 13px/20px 'Roboto',Arial,Helvetica,sans-serif;}
+/*Mobile Apps Development Services*/
+
+/*Face Lift*/
+.face_box{padding:20px; }
+.face_box h3, .face_box p.strong{display:inline-block;font:700 1.3em/1.3em 'Roboto', serif;color:#fff; text-shadow:1px 0 5px #222;}
+.face_box h3, .face_box p.strong span{font:100 1.3em/1.3em 'Roboto', serif;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}
+/*Face Lift*/
+
+/* Why So Many Businesses */
+.why_seo_box h3{font:700 1.3em/1.1em 'Roboto', serif;}
+.why_seo_list{ float:none; width:auto; text-align:center; margin-bottom:25px;}
+.why_seo_list .choose_ico{ float:none; margin:0 0 10px 0;}
+.why_seo_list h3, .why_seo_list p.strong{font:500 16px/24px 'Roboto', serif;}
+/* Why So Many Businesses */
+
+/*Mobile Apps Development Services*/
+.seo_case_bg{ padding-top:30px;}
+.seo_case_sec h3{font:300 1.5em/1.1em 'Roboto', serif;}
+.seo_case_sec h3 span{font:700 1.2em/1.1em 'Roboto', serif;}
+.seo_case_cnt{ text-align:center; font-size:15px;}
+.seo_case_bg ul{ margin:10px 0 0 25px; padding:0 ; list-style:url(https://www.weblinkindia.net/images/seo-case-arr.svg);}
+.seo_case_bg ul li{ margin:0; padding:5px 0 5px 0; font-size:16px;}
+
+/*Looking For Search Engine Optimization Services?*/
+.seo_service h3, .seo_service p.strong{font:700 1.1em/1.1em 'Roboto', serif;}
+.seo_service h3, .seo_service p.strong span{font:300 1.1em/1.1em 'Roboto', serif;}
+
+/*Our SEO Package Covers*/
+.seo_pack_bg{  padding:25px 0;}
+.seo_pack h2{font:800 1.5em/1.5em 'Roboto',Arial,Helvetica,sans-serif;}
+.seo_pack h2 span{font:300 1.5em/1.5em 'Roboto',Arial,Helvetica,sans-serif;}
+.seo_cnt{font:16px/18px 'Roboto',Arial,Helvetica,sans-serif;}
+.seo_pack_lft{ font:700 18px/22px 'Roboto',Arial,Helvetica,sans-serif;}
+.seo_pack_rgt{font:700 18px/22px 'Roboto',Arial,Helvetica,sans-serif;}
+
+.seopack_btn, .seopack_btn:visited{font:500 15px/40px 'Roboto', serif;height:40px;padding:0px 25px;margin-right:2px; margin-left:2px; margin-bottom:10px;}
+.askquote_btn, .askquote_btn:visited{font:500 15px/40px 'Roboto', serif;height:40px;padding:0px 25px;;margin-right:2px; margin-left:2px; margin-bottom:10px;}
+
+}
+
+
+
+
+/* ================= Mobile (Portrait) below 480px  ================= */
+@media only screen and (max-width:479px) {
+	
+/*Mobile Apps Development Services*/
+.aap_service_sec1{float:none; margin:auto; width:71px;}
+.aap_service_sec2{float:none; width:100%; margin-left:0px; text-align:center;}
+.aap_service_sec2 h3, .aap_service_sec2 p.strong a{font:700 16px/16px 'Roboto',Arial,Helvetica,sans-serif; margin-top:15px;}
+.aap_service_sec2 .aap_cnt{font:300 13px/16px 'Roboto',Arial,Helvetica,sans-serif;}
+/*Mobile Apps Development Services*/
+	
+/*Face Lift*/
+.face_box{padding:20px; }
+.face_box h3, .face_box p.strong{display:inline-block;font:700 1.3em/0.7em 'Roboto', serif;color:#fff; text-shadow:1px 0 5px #222;}
+.face_box h3, .face_box p.strong span{font:100 1.3em/0.7em 'Roboto', serif;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}
+
+.face_btn, .face_btn:visited{font:500 16px/34px 'Roboto', serif;height:34px;padding:0px 20px; margin-top:10px;}
+/*Face Lift*/
+	
+}

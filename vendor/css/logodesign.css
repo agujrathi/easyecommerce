@@ -1,0 +1,471 @@
+@charset "utf-8";
+.container{width:1200px;padding:0 15px}
+
+.arrow_drupal{text-align:center;}
+.arrow_drupal:hover path:nth-child(odd){background:#fff; fill:#f79030 !important;  position:absolute; z-index:9; top:0px; left:0px;} 
+
+/*banner */
+.promotion_banner{background:url(https://www.weblinkindia.net/images/logo-banner.jpg) center top no-repeat;width:100%;height:531px;background-attachment:local; background-size:cover}
+.banner_sec{text-align:left; width:50%; }
+.banner_sec h1{font:700 47px/47px 'Roboto', serif;display:block;color:#fff; border-bottom:0px; margin-top:60px;}
+.banner_cnt{font:300 30px/30px 'Roboto', serif; color:#fff; margin-top:5px;margin-bottom:25px; }
+
+.banner_btn{width:55%;background:#0cc5cc; text-align:center; padding:10px;  margin-top:23px; border-radius:5px; box-shadow:0 1px 1px 1px #e16f00;}
+.banner_btn:hover{background:#114160;}
+.banner_btn .title a{font:700 22px/22px 'Roboto', serif; color:#fff; }
+.banner_btn .title_sub{font:300 14px/18px 'Roboto', serif; color:#fff; margin-top:3px;}
+/*banner */
+
+/*Principles Of An Effective Logo Design*/
+.principles_bg{background:url(https://www.weblinkindia.net/images/cro-bg.jpg);}
+.principles_sec h2{font:300 47px/47px 'Roboto', serif;display:block;color:#0078ae; text-align:center; margin:28px 0 25px 0;}
+.principles_sec h2 span{font:700 47px/47px 'Roboto', serif}
+
+
+.web_sec_m{margin-top:56px}
+.web_sec_list_m{margin-top:15px}
+.web_list ul, .web_list ul li{margin:0;padding:0;list-style:none}
+.web_list ul li{float:left;width:33.3333%;margin-bottom:30px}
+.web_list ul li .web_main_area{width:365px;margin:auto;position:relative;transition:all .3s linear}
+/*.web_list ul li .web_main_area:hover .web_area{display:none}*/
+.web_list ul li .web_area{width:365px;margin:auto;padding:35px 15px;border:1px solid #c3c3c3;border-radius:10px}
+.web_list ul li .web_area .web_img{width:110px;height:110px;margin:auto !important;overflow:hidden}
+.web_list ul li .web_area figure{width:110px;height:110px;display:table-cell;vertical-align:middle;text-align:center}
+.web_list ul li .web_area figure img{display:block;margin:auto}
+.web_area h3, .web_area p.strong{font:700 24px/32px 'Roboto', serif;color:#0078ae;text-align:center;margin-top:40px; text-transform:capitalize;height:32px; overflow:hidden}
+.web_box{background:#0cc5cc;width:100%;border-radius:10px;z-index:9;position:absolute;transition:all .3s linear;opacity:0;top:10px;left:0px;}
+.web_main_area:hover .web_box{opacity:9;position:absolute;top:-0px;left:0px}
+.web_box> div{padding:18px 20px !important;text-align:center}
+.web_box h3{font:700 23px/32px 'Roboto', serif;color:#fff;text-align:center; margin-top:10px;text-transform:capitalize; }
+
+.web_cnt{font:300 15px/20px 'Roboto', serif;color:#fff; padding-top:10px;height:105px; overflow:hidden}
+
+.web_box_img{width:85px;height:85px;margin:auto;overflow:hidden;}
+.web_box_img figure{width:85px;height:85px;display:table-cell;vertical-align:middle;text-align:center}
+.web_box_img img{display:block;margin:auto}
+/*Principles Of An Effective Logo Design*/
+
+/*Brand Your Business*/
+.life_sec_bg{background:url(https://www.weblinkindia.net/images/logo-bg.jpg);}
+
+.life_sec_bg h3, .life_sec_bg p.strong{font:300 40px/47px 'Roboto', serif;color:#fff;text-align:center;text-transform:capitalize; padding-top:22px;}
+.life_sec_bg h3, .life_sec_bg p.strong span{font:700 42px/42px 'Roboto', serif;}
+
+.portfolio_btn_m{margin:40px 0; text-align:center;}
+.btn4, .btn4:visited{background:#ff8515;display:inline-block;text-align:center;color:#fff;font:500 20px/43px 'Roboto', serif;height:43px;padding:0px 36px;cursor:pointer;border-radius:3px;border:0px;border-radius:5px;margin-right:15px}
+.btn4:hover{color:#fff;background:#303c49;text-decoration:none}
+
+.btn4_sub, .btn4_sub:visited{background:none;display:inline-block;text-align:center;color:#fff;font:500 20px/39px 'Roboto', serif;height:43px;padding:0px 25px;cursor:pointer;border-radius:3px;border:2px solid #fff;border-radius:5px;margin-right:15px}
+.btn4_sub:hover{color:#fff;background:#ff8515;text-decoration:none;border:2px solid #de6e07}
+/*Brand Your Business*/
+
+/*Result-Driven Innovative Ideas*/
+.ideas_sec_bg{background:url(https://www.weblinkindia.net/images/webdesign-bg.jpg) center top no-repeat;background-size:cover;background-attachment: fixed;min-height:511px}
+.web_sec_m{margin-top:56px}
+.ideas_mt{margin-top:24px;}
+.ideas_mt h4{font:700 2.5em/1.1em 'Roboto', serif;display:block;color:#fff; text-align:center;}
+.ideas_btn_sec{margin:40px auto; text-align:center;}
+.ideas_btn, .ideas_btn:visited{background:#ff8515;display:inline-block;text-align:center;color:#fff;font: 16px/42px 'Open Sans',Arial, Helvetica, sans-serif;height:42px;padding:0px 25px;cursor:pointer;border-radius:3px;border:0px;border-radius:5px;margin-right:15px; text-shadow:1px 0 5px #222;}
+.ideas_btn:hover{color:#fff;background:#01a1ba;text-decoration:none}
+
+.logo_list ul, .logo_list ul li{margin:0;padding:0;list-style:none}
+.logo_list ul li{float:left;width:25%;margin-bottom:25px}
+
+.logo_list ul li .logo_main_area{width:270px;margin:auto; background:#fff;border-radius:10px; position:relative;transition:all .3s linear}
+.logo_list ul li .logo_area{width:262px;margin:auto;}
+.logo_list ul li .logo_area .logo_img{width:262px;height:182px;margin:auto !important;overflow:hidden}
+.logo_list ul li .logo_area figure{width:262px;height:182px;display:table-cell;vertical-align:middle;text-align:center}
+.logo_list ul li .logo_area figure img{display:block;margin:auto}
+.logo_box{background:#434d5b;width:100%;height:182px; border-radius:8px;z-index:9;position:absolute;transition:all .3s linear;opacity:0;top:40px;left:0px;}
+.logo_main_area:hover .logo_box{opacity:9;position:absolute;top:-0px;left:0px}
+.logo_box> div{padding:18px 20px !important;text-align:center !important;}
+.logo_box h3, .logo_box p.strong{font: 24px/24px 'Roboto', serif;color:#fff;text-align:center !important; text-transform:capitalize; width:262px; height:145px;vertical-align:middle; display:table-cell; }
+/*Result-Driven Innovative Ideas*/
+
+
+/*Advantages Of Logo Design*/
+.advantages_logo_bg{background:url(https://www.weblinkindia.net/images/adv_logo_bg.jpg) center top no-repeat;background-size:cover;background-attachment: fixed;min-height:600px}
+
+.advantages_logo_sec h2{font:700 47px/47px 'Roboto', serif;display:block;color:#fff; text-align:center; margin:30px 0;}
+.advantages_logo_sec h2 span{font:300 47px/47px 'Roboto', serif;}
+
+.partner_list ul, .partner_list ul li{margin:0;padding:0;list-style:none}
+.partner_list ul li{float:left;width:50%;margin-bottom:30px !important}
+.partner_area_bdr{border:2px dotted #fff; padding:3px; border-radius:15px;width:95%; margin:auto;}
+.partner_area{border-radius:15px; padding:10px; }
+.partner_area_bdr:hover{border:2px dotted #222;}
+.partner_area:hover{background:#00b2ce;}
+.app_process_box .sec1{float:left;}
+.app_process_box .sec2{float:left; width:67%; margin-left:15px;}
+.app_process_box .mt28{ margin-top:28px;}
+.app_process_box h3, .app_process_box p.strong{font:24px/24px 'Roboto', serif;color:#fff;text-transform:capitalize;}
+.app_process_box .sec2_cnt{font:300 16px/24px 'Roboto', serif;color:#fff; margin-top:5px; height:100px; overflow:hidden; margin-top:10px;}
+.app_process_box_img{width:155px;height:155px; margin:auto;overflow:hidden; position:relative}
+.app_process_box_img figure{width:155px;height:155px;display:table-cell;vertical-align:middle;text-align:center;}
+.app_process_box_img img{display:block;margin:auto; max-width:100%; height:auto;}
+/*Advantages Of Logo Design*/
+
+
+/*Consult Experts*/
+.face_box{background:#eeeeee; padding:30px; text-align:center; border-top:2px solid #dcdcdc;}
+.face_box h3, .face_box p.strong{display:inline-block;font:700 42px/42px 'Roboto', serif;color:#0078ae; text-transform:capitalize;}
+.face_box h3, .face_box p.strong span{font:300 42px/42px 'Roboto', serif;}
+
+.face_box:hover{background:#fff;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}  
+
+.face_btn, .face_btn:visited{background:#ff8515;display:inline-block;text-align:center;color:#fff;font:500 20px/44px 'Roboto', serif;height:44px;padding:0px 28px;cursor:pointer;border-radius:3px;border-radius:5px;margin-right:15px;box-shadow:0 2px  5px #666; text-shadow:1px 0 5px #222; margin-left:15px; vertical-align:middle}
+.face_btn:hover{color:#fff;background:#0078ae;text-decoration:none; text-shadow:none;}
+
+/*Consult Experts*/
+
+
+/*Why Choose Weblink India For Logo Designing*/
+.logo_choose_bg{background:url(https://www.weblinkindia.net/images/logo-choose-bg.jpg);}
+.logo_choose_sec{text-align:center;}
+.logo_choose_sec h3{display:inline-block;font:700 42px/42px 'Roboto', serif;color:#0078ae; text-transform:capitalize; margin:15px 0;}
+.logo_choose_sec h3 span{font:300 42px/42px 'Roboto', serif;}
+.heading_cnt{font:24px/24px 'Roboto', serif; text-align:center; color:#555555; margin-bottom:35px;}
+
+.logo_choose ul, .partner_list ul li{margin:0;padding:0;list-style:none}
+.logo_choose ul li{float:left;width:33.333%;margin-bottom:20px}
+
+.logo_choose_area{width:380px; margin:auto; border:1px dashed #000000; border-radius:20px; padding:18px 0px;}
+.logo_choose_area:hover{ background:#fff;}
+.logo_choose_area .h_sec1{float:left}
+.logo_choose_area .h_sec2{float:left; width:72%; margin:12px 0 0 15px;}
+.logo_choose_area .h_sec2 h3, .h_sec2 p.strong{font:20px/20px 'Roboto', serif; color:#000; text-align:left; text-transform:capitalize;}
+.number_pos{ position:absolute; z-index:9; top:12px; right:10px;font:700 20px/20px 'Roboto', serif; color:#fff;}
+.logo_choose_cnt{font:15px/20px 'Roboto', serif; color:#555555; text-align:left; padding:10px 15px 15px 35px; height:150px; overflow:hidden;}
+.logo_choose_sub_h{font:700 24px/24px 'Roboto', serif; color:#000; text-align:center; padding:25px 0;}
+.logo_choose_sub_h span{font:300 24px/24px 'Roboto', serif; }
+/*Why Choose Weblink India For Logo Designing*/
+
+
+/*Our Logo Design Procedure*/
+.logo_design_bg{background:url(https://www.weblinkindia.net/images/logo-design-bg.jpg) center top no-repeat;background-size:cover;background-attachment: fixed;min-height:697px}
+.logo_design_sec{ text-align:center}
+.logo_design_sec h3{display:inline-block;font:700 47px/47px 'Roboto', serif;color:#fff; text-transform:capitalize; margin:25px 0;}
+.logo_design_sec h3 span{font:300 47px/47px 'Roboto', serif;}
+
+.magento_tab{margin:30px 50px;}
+
+.magento_tab_links a {display:block; float:left; width:11.4%; height:85px; margin:0px 5px; position:relative;}
+.magento_tab_links a:hover{color:#fff;}
+.magento_tab_links a span{display:none;}
+.magento_tab_links a.act{color:#fff;}
+.magento_tab_links a.act span{position:absolute; z-index:9; bottom:-23.6px; left:4%;display:block;}
+
+.magento_tab_box{margin:58px 10px;}
+.logo_tab_left{float:left}
+.logo_tab_right{float:left; margin-left:50px; width:68%; }
+
+.logo_tab_img{width:240px;height:240px; margin:auto;overflow:hidden; position:relative}
+.logo_tab_img figure{width:240px;height:240px;display:table-cell;vertical-align:middle;text-align:center;}
+.logo_tab_img img{display:block;margin:auto; max-width:100%; height:auto;}
+
+.logo_tab_right h3, .logo_tab_right p.strong{font:24px/24px 'Roboto',Arial,Helvetica,sans-serif; color:#fff; text-align:left;margin-top:55px; text-transform:none}
+.logo_tab_cnt{font:300 15px/20px 'Roboto',Arial,Helvetica,sans-serif; color:#fff;text-align:left; margin-top:20px;}
+
+.tab_hider{display:none;}
+/*Our Logo Design Procedure*/
+
+
+
+
+
+
+
+/* ================= Desktop/Laptop below 1279px  ================= */
+@media only screen and (max-width:1220px){
+.container{width:100%}
+
+/*Web Design*/
+.web_list ul li .web_main_area{width:362px;margin:auto}
+.web_list ul li .web_area{width:362px;margin:auto}
+.web_area h3, .web_area p.strong{font:700 22px/32px 'Roboto', serif;}
+.web_cnt{font:300 15px/18px 'Roboto', serif;}
+/*Web Design*/
+
+/*Advantages Of Logo Design*/
+.app_process_box .sec2{float:left; width:66%;}
+/*Advantages Of Logo Design*/
+
+/*Why Choose Weblink India For Logo Designing*/
+.logo_choose_area{width:350px; margin:auto;}
+.logo_choose_area .h_sec2 h3, .h_sec2 p.strong{font:18px/20px 'Roboto', serif; }
+/*Why Choose Weblink India For Logo Designing*/
+
+
+}
+
+
+
+/* ================= Desktop/Laptop below 1152px  ================= */
+@media only screen and (max-width:1151px){	
+/*banner */
+.banner_sec{text-align:left; width:60%; }
+/*banner */
+
+/*Web Design*/
+.web_list ul li .web_main_area{width:315px;margin:auto}
+.web_list ul li .web_area{width:315px;margin:auto}
+.web_h_txt{font:20px/24px 'Roboto', serif}
+.web_t_txt a{font:20px/24px 'Roboto', serif}
+.web_area h3, .web_area p.strong{font:700 22px/32px 'Roboto', serif;}
+.web_box h3{font:700 19px/24px 'Roboto', serif;}
+/*Web Design*/
+
+/*Result-Driven Innovative Ideas*/
+.logo_list ul li .logo_main_area{width:235px;margin:auto; background:#fff;border-radius:10px; position:relative;transition:all .3s linear}
+.logo_list ul li .logo_area{width:222px;margin:auto; border-radius:10px;}
+.logo_list ul li .logo_area .logo_img{width:222px;height:153px;margin:auto !important;}
+.logo_list ul li .logo_area figure{width:222px;height:153px;}
+.logo_list ul li .logo_area figure img{display:block;margin:auto; max-width:100%; height:auto;}
+.logo_box{background:#434d5b;width:100%;height:153px;}
+.logo_box h3, .logo_box p.strong{width:50%;height:115px;}
+/*Result-Driven Innovative Ideas*/
+
+/*Advantages Of Logo Design*/
+.app_process_box .sec2{float:left; width:60%;}
+.app_process_box .sec2_cnt{height:118px; overflow:hidden;}
+/*Advantages Of Logo Design*/
+
+
+/*Why Choose Weblink India For Logo Designing*/
+.logo_choose_area{width:320px; margin:auto;}
+.logo_choose_cnt{height:170px; overflow:hidden;}
+/*Why Choose Weblink India For Logo Designing*/
+
+
+/*Our Logo Design Procedure*/
+.magento_tab_links a {display:block; float:left; width:11.4%; height:85px; margin:0px 5px; position:relative;}
+.magento_tab{margin:30px 0px;}
+/*Our Logo Design Procedure*/
+
+
+}
+
+
+/* ================= Tablet (Portrait) 768px - 959px ================= */
+@media only screen and (max-width: 991px) {
+/*banner */
+.promotion_banner{background:#ff8600;width:100%;height:auto;}
+.banner_sec{width:100%; margin:auto; text-align:center; }
+.banner_sec h1{font:900 37px/37px 'Roboto', serif; margin-top:20px;}
+.banner_cnt{font:300 18px/20px 'Roboto', serif;}
+.banner_btn{width:35%; margin:auto;}
+.banner_btn .title a{font:700 16px/20px 'Roboto', serif;}
+.banner_btn .title_sub{font:300 14px/18px 'Roboto', serif;}
+/*banner */
+
+/*Web Design*/
+.principles_sec h2{font:300 37px/37px 'Roboto', serif;}
+.principles_sec h2 span{font:700 37px/37px 'Roboto', serif}
+
+.web_list ul li .web_main_area{width:230px;margin:auto}
+.web_list ul li .web_area{width:230px;margin:auto}
+.web_h_txt{font:22px/24px 'Roboto', serif}
+.web_t_txt a{font:14px/24px 'Roboto', serif}
+.web_cnt{font:300 15px/18px 'Roboto', serif; height:160px;}
+/*Web Design*/
+
+/*Brand Your Business*/
+.life_sec_bg h3, .life_sec_bg p.strong{font:300 30px/37px 'Roboto', serif;}
+.life_sec_bg h3, .life_sec_bg p.strong span{font:700 30px/37px 'Roboto', serif;}
+.portfolio_btn_m{margin:30px 0; text-align:center;}
+/*Brand Your Business*/
+
+
+/*Result-Driven Innovative Ideas*/
+.logo_list ul li{float:left;width:50%;margin-bottom:25px}
+/*Result-Driven Innovative Ideas*/
+
+/*Advantages Of Logo Design*/
+.advantages_logo_sec h2{font:700 37px/37px 'Roboto', serif;}
+.advantages_logo_sec h2 span{font:300 37px/37px 'Roboto', serif;}
+.app_process_box .sec1{float:none; margin:auto}
+.app_process_box .sec2{float:none; width:100%; margin-left:0px; text-align:center}
+.app_process_box h3, .app_process_box p.strong{font:20px/20px 'Roboto', serif; margin-top:15px;}
+/*Advantages Of Logo Design*/
+
+/*Face Lift*/
+.face_box h3, .face_box p.strong{display:inline-block;font:700 28px/32px 'Roboto', serif;}
+.face_box h3, .face_box p.strong span{font:300 28px/28px 'Roboto', serif;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}
+/*Face Lift*/
+
+/*Why Choose Weblink India For Logo Designing*/
+.logo_choose_sec h3{display:inline-block;font:700 32px/32px 'Roboto', serif;}
+.logo_choose_sec h3 span{font:300 32px/32px 'Roboto', serif;}
+.heading_cnt{font:18px/4px 'Roboto', serif; padding:0px 10px;}
+.heading_cnt{font:20px/20px 'Roboto', serif;}
+.logo_choose ul li{float:left;width:50%;margin-bottom:20px}
+.logo_choose_area{width:350px; margin:auto;}
+/*Why Choose Weblink India For Logo Designing*/
+
+
+/*Our Logo Design Procedure*/
+.logo_design_bg{min-height:auto}
+.logo_design_sec h3{font:700 37px/37px 'Roboto', serif; margin:15px 0 0 0;}
+.logo_design_sec h3 span{font:300 37px/37px 'Roboto', serif;}
+.logo_tab_left{float:left}
+.logo_tab_right{float:left; margin-left:30px; width:58%; }
+.magento_tab{margin:10px 10px 30px 10px;}
+
+.heading-hide{background:#fff url(https://www.weblinkindia.net/images/p3.png) no-repeat 96% center; cursor:pointer;font:700 20px/26px 'Roboto',Arial,Helvetica,sans-serif; color:#222;display:block;padding:10px 10px; margin:8px 0; line-height:20px; text-align:left; border-radius:5px 5px 0 0;transition:all linear .3s; -webkit-transition:all linear .3s; -moz-transition:all linear .3s; -ms-transition:all linear .3s; margin-bottom:1px; box-shadow:1px 0 5px #ccc;}.dd_next_act{background:#fff url(https://www.weblinkindia.net/images/p4.png) no-repeat 96% center;}
+
+.heading-hide h3, .heading-hide p.strong{font:700 16px/20px 'Roboto',Arial,Helvetica,sans-serif; color:#222;}
+.heading-hide{font:700 16px/20px 'Roboto',Arial,Helvetica,sans-serif;}
+
+.f_dd_box{display:none;}
+.tabs_cont2{display:none;}
+/*Our Logo Design Procedure*/
+
+
+}
+
+
+
+
+
+/* ================= Mobile (Landscape) 480px - 767px ================= */
+@media only screen and (max-width:767px) {
+/*banner */
+.banner_sec h1{font:900 1.2em/1.2em 'Roboto', serif; margin-top:20px;}
+.banner_cnt{font:300 12px/18px 'Roboto', serif;}
+.banner_btn{width:55%;}
+.banner_btn .title a{font:700 16px/20px 'Roboto', serif;}
+.banner_btn .title_sub{font:300 14px/18px 'Roboto', serif;}
+/*banner */
+
+/*Web Design*/
+.principles_sec h2{font:300 1.3em/1.3em 'Roboto', serif;}
+.principles_sec h2 span{font:700 1.3em/1.3em 'Roboto', serif}
+.web_list ul li .web_main_area{width:95%;margin:auto}
+.web_list ul li .web_area{width:95%;margin:auto}
+.web_h_txt{font:24px/24px 'Roboto', serif}
+.web_t_txt a{font:22px/24px 'Roboto', serif}
+.web_list ul li{width:100%;height:auto;float:none;}
+.web_cnt{font:300 15px/18px 'Roboto', serif; height:100px;}
+/*Web Design*/
+
+
+/*Brand Your Business*/
+.life_sec_bg h3, .life_sec_bg p.strong{font:300 1.1em/1.1em 'Roboto', serif;}
+.life_sec_bg h3, .life_sec_bg p.strong span{font:700 1.1em/1.1em 'Roboto', serif;}
+/*Brand Your Business*/
+
+
+/*Result-Driven Innovative Ideas*/
+.ideas_mt h4{font:700 1.7em/1.1em 'Roboto', serif;display:block;color:#fff; text-align:center;}
+.logo_list ul li .logo_main_area{width:215px;margin:auto;}
+.logo_list ul li .logo_area{width:200px;margin:auto; border-radius:10px;}
+.logo_list ul li .logo_area .logo_img{width:200px;height:137px;margin:auto !important;}
+.logo_list ul li .logo_area figure{width:200px;height:137px;}
+.logo_box{background:#434d5b;width:100%;height:137px;}
+.logo_box h3, .logo_box p.strong{width:50%;height:92px;}
+/*Result-Driven Innovative Ideas*/
+
+/*Advantages Of Logo Design*/
+.advantages_logo_sec h2{font:700 1.2em/1.2em 'Roboto', serif;}
+.advantages_logo_sec h2 span{font:300 1.2em/1.2em 'Roboto', serif;}
+.partner_list ul li{float:left;width:100%;}
+.app_process_box .sec2_cnt{height:auto;}
+/*Advantages Of Logo Design*/
+
+/*Face Lift*/
+.face_box{padding:20px; }
+.face_box h3, .face_box p.strong{display:inline-block;font:700 1.3em/1.3em 'Roboto', serif;}
+.face_box h3, .face_box p.strong span{font:300 1.3em/1.3em 'Roboto', serif;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}
+/*Face Lift*/
+
+/*Why Choose Weblink India For Logo Designing*/
+.logo_choose_sec h3{display:inline-block;font:700 1.3em/1.3em 'Roboto', serif;}
+.logo_choose_sec h3 span{font:300 1.3em/1.3em 'Roboto', serif;}
+.heading_cnt{font:20px/20px 'Roboto', serif;}
+.logo_choose ul li{float:left;width:100%;margin-bottom:20px}
+.logo_choose_area{width:90%; margin:auto;}
+.logo_choose_cnt{height:auto;}
+.logo_choose_sub_h{font:700 18px/18px 'Roboto', serif;}
+.logo_choose_sub_h span{font:300 18px/18px 'Roboto', serif; }
+/*Why Choose Weblink India For Logo Designing*/
+
+
+
+/*Our Logo Design Procedure*/
+.logo_design_bg{min-height:auto}
+.logo_design_sec h3{font:700 1.2em/1.2em 'Roboto', serif;}
+.logo_design_sec h3 span{font:300 1.2em/1.2em 'Roboto', serif;}
+
+.logo_tab_left{float:none; margin:auto; text-align:center;}
+.logo_tab_right{float:none; margin-left:00px; width:100%;text-align:center !important; }
+
+.logo_tab_img{width:200px;height:200px; margin:auto;}
+.logo_tab_img figure{width:200px;height:200px;}
+
+.logo_tab_right h3, .logo_tab_right p.strong{text-align:center;}
+.logo_tab_cnt{text-align:center;}
+
+/*Our Logo Design Procedure*/
+
+}
+
+
+
+
+/* ================= Mobile (Portrait) below 480px  ================= */
+@media only screen and (max-width:479px) {
+/*banner */
+.banner_sec h1{font:900 1em/1em 'Roboto', serif;}
+.banner_btn{width:70%;padding:5px;  margin-top:13px; }
+.banner_btn .title a{font:700 13px/16px 'Roboto', serif;}
+.banner_btn .title_sub{font:300 12px/16px 'Roboto', serif;}
+/*banner */
+
+/*Web Design*/
+.principles_sec h2{font:300 1em/1em 'Roboto', serif;}
+.web_list ul li{width:100%;height:260px}
+.web_h_txt{font:18px/20px 'Roboto', serif;color:#fff;text-align:center;margin-top:40px}	
+.input_w{width:212px !important;margin-left:20px}
+.web_cnt{font:300 15px/18px 'Roboto', serif; height:125px; }
+/*Web Design*/
+
+/*Brand Your Business*/
+.life_sec_bg h3, .life_sec_bg p.strong{font:300 1em/1em 'Roboto', serif;}
+.life_sec_bg h3, .life_sec_bg p.strong span{font:700 1em/1em 'Roboto', serif;}
+/*Brand Your Business*/
+
+/*Result-Driven Innovative Ideas*/
+.logo_list ul li{float:none;width:100%;margin-bottom:25px}
+.ideas_mt h4{font:700 1em/1em 'Roboto', serif;display:block;color:#fff; text-align:center;}
+/*Result-Driven Innovative Ideas*/
+
+/*Advantages Of Logo Design*/
+.advantages_logo_sec h2{font:700 1em/1em 'Roboto', serif;}
+.advantages_logo_sec h2 span{font:300 1em/1em 'Roboto', serif;}
+/*Advantages Of Logo Design*/
+
+
+/*Face Lift*/
+.face_box{padding:20px; }
+.face_box h3, .face_box p.strong{display:inline-block;font:700 1em/1em 'Roboto', serif;}
+.face_box h3, .face_box p.strong span{font:300 1.3em/1em 'Roboto', serif;}
+.face_box span{font:800 48px/48px 'Roboto', serif;}
+.face_btn, .face_btn:visited{font:500 16px/34px 'Roboto', serif;height:34px;padding:0px 20px; margin-top:10px;}
+/*Face Lift*/
+
+/*Why Choose Weblink India For Logo Designing*/
+.logo_choose_sec h3{display:inline-block;font:700 1em/1em 'Roboto', serif;}
+.logo_choose_sec h3 span{font:300 1em/1em 'Roboto', serif;}
+.heading_cnt{font:18px/px 'Roboto', serif;}
+.logo_choose_sub_h{font:700 18px/18px 'Roboto', serif;}
+.logo_choose_sub_h span{font:300 18px/18px 'Roboto', serif; }
+
+.logo_choose_area .h_sec1{float:left}
+.logo_choose_area .h_sec2{float:left; width:60%; margin:0px 0 0 15px;}
+/*Why Choose Weblink India For Logo Designing*/
+
+
+}
